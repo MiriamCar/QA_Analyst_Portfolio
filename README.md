@@ -6,7 +6,7 @@
 In this portfolio, I will be sharing the tasks and assignments that I have completed as part of my learning and mastery of some of the most useful tools for Manual QA testers. I have always been interested in technology, and I have been actively seeking to enhance my skills in this field by learning and exploring various tools and techniques.
 
 #### :collision: My Software Testing Skills 
-#### JIRA | Trello | TestRail | Python | SQL | Jmeter | Postman |
+#### JIRA | Trello | TestRail | Python | SQL | Jmeter | Postman | Visual Studio Code|
 
 ##### :books: Currently learning: Selenium IDE | Cypress.io| Javascript
 ___________________________
