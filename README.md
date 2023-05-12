@@ -1,5 +1,4 @@
 # Hi! 👋  I'm Miriam
-
 ### A passionate QA Analyst from Argentina! 🧉 
 
 **Welcome to my GitHub Portfolio!**
@@ -8,25 +7,25 @@ In this portfolio, I will be sharing the tasks and assignments that I have compl
 
 In this portfolio, you will find examples of my work with some of the most popular QA testing tools, including:
 
-- Selenium IDE
+- Selenium IDE (basic functional web testing scripts)
 
 - JMeter
 
 - Postman
 
-- Cypress
+- Cypress (basic functional web testing scripts)
 
 - SQL
 
-Each project in this portfolio represents a different aspect of my journey as a QA analyst, and I hope that you find them informative and helpful.
+:sparkles: Each project in this portfolio represents a different aspect of my journey as a QA analyst, and I hope that you find them informative and helpful.
 
-I'm also working on some basic tutorials for those who wish to enter the exciting world of Software Testing! 🚀
+:construction_worker: I'm also working on some basic tutorials for those who wish to enter the exciting world of Software Testing! 🚀
 
 Thank you for taking the time to visit my portfolio, and if you have any questions or comments, please feel free to contact me.
 
 ***You can contact me at:***
 
-💻 LinkedIn
+💻 [LinkedIn](https://www.linkedin.com/in/miriam-cardozo-488a77239/?locale=en_US)
 
 📧 cardozo.miri@gmail.com
 
