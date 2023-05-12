@@ -5,13 +5,19 @@
 
 In this portfolio, I will be sharing the tasks and assignments that I have completed as part of my learning and mastery of some of the most useful tools for Manual QA testers. I have always been interested in technology, and I have been actively seeking to enhance my skills in this field by learning and exploring various tools and techniques.
 
-In this portfolio, you will find examples of my work with some of the most popular QA testing tools, including:
+#### :collision: My Software Testing Skills 
+#### JIRA | Trello | TestRail | Python | SQL | Jmeter | Postman |
+
+##### :books: Currently learning: Selenium IDE | Cypress.io| Javascript
+___________________________
+
+#### :crystal_ball: What will you find in this portfolio?
+
+You will find examples of my work with some of the most popular QA testing tools, including:
 
 - Test cases and bug reports using JIRA
 
-- Selenium IDE (for basic functional web testing scripts)
-
-- Jmeter and Google Chrome Dev Tools for perfomance testing
+- Jmeter and Google Chrome Dev Tools examples of perfomance testing
 
 - Postman (for API testing and some basic automatization tests)
 
