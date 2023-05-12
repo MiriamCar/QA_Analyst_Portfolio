@@ -3,19 +3,21 @@
 
 **Welcome to my GitHub Portfolio!**
 
-In this portfolio, I will be sharing the tasks and assignments that I have completed as part of my learning and mastery of some of the most useful tools for QA testers. I have always been interested in technology, and I have been actively seeking to enhance my skills in this field by learning and exploring various tools and techniques.
+In this portfolio, I will be sharing the tasks and assignments that I have completed as part of my learning and mastery of some of the most useful tools for Manual QA testers. I have always been interested in technology, and I have been actively seeking to enhance my skills in this field by learning and exploring various tools and techniques.
 
 In this portfolio, you will find examples of my work with some of the most popular QA testing tools, including:
 
-- Selenium IDE (basic functional web testing scripts)
+- Test cases and bug reports using JIRA
 
-- JMeter
+- Selenium IDE (for basic functional web testing scripts)
 
-- Postman
+- Jmeter and Google Chrome Dev Tools for perfomance testing
 
-- Cypress (basic functional web testing scripts)
+- Postman (for API testing and some basic automatization tests)
 
-- SQL
+- Cypress (for basic functional web testing scripts)
+
+- SQL (usefeul queries)
 
 :sparkles: Each project in this portfolio represents a different aspect of my journey as a QA analyst, and I hope that you find them informative and helpful.
 
