@@ -8,7 +8,8 @@ In this portfolio, I will be sharing the tasks and assignments that I have compl
 #### :collision: My Software Testing Skills 
 #### JIRA | Trello | TestRail | Python | SQL | Jmeter | Postman | Visual Studio Code|
 
-##### :books: Currently learning: Selenium IDE | Cypress.io| Javascript
+#### :books: Currently learning
+##### Selenium IDE | Cypress.io| Javascript
 ___________________________
 
 ### :crystal_ball: What will you find in this portfolio?
@@ -40,8 +41,8 @@ Thank you for taking the time to visit my portfolio, and if you have any questio
 📧 cardozo.miri@gmail.com
 
 #### Happy testing! 🔎 🦗
-______________
-### My Projects
+
+## My Projects
 
 #### Bug reports
 - [Bug Report of e-commerce webpage - in english](https://docs.google.com/spreadsheets/d/1Id0xqdYYXzH4EpnT0iGchRkA3KkGHjVr/edit?usp=share_link&ouid=102987615667780543888&rtpof=true&sd=true)
