@@ -24,9 +24,7 @@ You will find examples of my work with some of the most popular QA testing tools
 
 - Postman (basic automated API tests for websites)
 
-- Cypress (for basic functional web testing scripts)
-
-- SQL (usefeul queries)
+- SQL (queries and learning resources)
 
 :sparkles: Each project in this portfolio represents a different aspect of my journey as a QA analyst, and I hope that you find them informative and helpful.
 
@@ -59,6 +57,6 @@ Thank you for taking the time to visit my portfolio, and if you have any questio
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/26765226-40b39827-3ba7-4c07-88f5-087a1fec1fce?action=collection%2Ffork&collection-url=entityId%3D26765226-40b39827-3ba7-4c07-88f5-087a1fec1fce%26entityType%3Dcollection%26workspaceId%3D994793d6-f1b2-45a6-94ca-8c532d2878b7)
 
-#### SQL queries
+#### SQL Queries & Learning resources (in the making)
 
 
