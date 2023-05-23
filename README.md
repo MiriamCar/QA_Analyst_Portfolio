@@ -48,7 +48,22 @@ Thank you for taking the time to visit my portfolio, and if you have any questio
 
 #### Test cases
 - [Suite of test cases for Buggy Cars Raiting webpage - in spanish](https://docs.google.com/spreadsheets/d/11BfNqzr8ieiaEdpWdFSPVtpnht2kdqWk/edit?usp=sharing&ouid=102987615667780543888&rtpof=true&sd=true)
-- Suite of test cases for technoshop e-commerce (in the making)
+
+#### Web Testing Proyect
+
+This link contains an end-to-end web testing project for an e-commerce website as part of the final project of the QA testing course taught by Coderhouse, one of the largest online learning platforms in LATAM. 
+
+- [Web Testing - in spanish](https://drive.google.com/file/d/1pHcW8cImVPSwHZu5qTa0BjHBTDdkHhY9/view?usp=sharing)
+
+Here you will find: 
+
+1. Report of test cases for User registration, My account and Cart sections
+
+2. Report of bugs
+
+3. Test execution report
+
+4. Conclusions and recommendations
 
 #### Postman REST API Testing
 + API tests collection for Buggy Cars Raiting site
