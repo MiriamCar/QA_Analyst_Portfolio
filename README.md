@@ -9,7 +9,7 @@ In this portfolio, I will be sharing the tasks and assignments that I have compl
 #### JIRA | Trello | TestRail | Python | SQL | Jmeter | Postman | Visual Studio Code|
 
 #### :books: Currently learning
-##### Selenium IDE | Cypress.io| Javascript
+##### Selenium IDE | Javascript | Postman
 ___________________________
 
 ### :crystal_ball: What will you find in this portfolio?
@@ -47,7 +47,7 @@ Thank you for taking the time to visit my portfolio, and if you have any questio
 The following links showcase bug reports from projects I completed as part of my learning journey in various courses. These reports highlight issues identified and addressed in different web development projects. 
 
 - [Bug Report of e-commerce webpage - in english](https://docs.google.com/spreadsheets/d/1Id0xqdYYXzH4EpnT0iGchRkA3KkGHjVr/edit?usp=share_link&ouid=102987615667780543888&rtpof=true&sd=true)
-- 
+
 This bug report showcases my ability to identify and resolve visual, content, performance, cross-browser, and cross-device bugs in an e-commerce website. I analyzed the website thoroughly and reported issues such as alignment problems, broken images, slow loading times, compatibility issues across different browsers, and inconsistencies in the user interface. For cross-browser testing I used BrowserStack emulator and for perfomance testing the tools available in Google Chrome Dev Tools.
 
 - [Bug Report of Mercury Tours flight reservation webpage - in spanish](https://docs.google.com/spreadsheets/d/1gAxn3I0seW7I6wOIeLjZcvpAFvzp7WAe/edit?usp=share_link&ouid=102987615667780543888&rtpof=true&sd=true)
