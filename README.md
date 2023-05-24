@@ -38,13 +38,21 @@ Thank you for taking the time to visit my portfolio, and if you have any questio
 
 📧 cardozo.miri@gmail.com
 
-#### Happy testing! 🔎 🦗
+#### Happy testing! 🔎🐞
 
 ## My Projects
 
 #### Bug reports
+
+The following links showcase bug reports from projects I completed as part of my learning journey in various courses. These reports highlight issues identified and addressed in different web development projects. 
+
 - [Bug Report of e-commerce webpage - in english](https://docs.google.com/spreadsheets/d/1Id0xqdYYXzH4EpnT0iGchRkA3KkGHjVr/edit?usp=share_link&ouid=102987615667780543888&rtpof=true&sd=true)
+- 
+This bug report showcases my ability to identify and resolve visual, content, performance, cross-browser, and cross-device bugs in an e-commerce website. I analyzed the website thoroughly and reported issues such as alignment problems, broken images, slow loading times, compatibility issues across different browsers, and inconsistencies in the user interface. For cross-browser testing I used BrowserStack emulator and for perfomance testing the tools available in Google Chrome Dev Tools.
+
 - [Bug Report of Mercury Tours flight reservation webpage - in spanish](https://docs.google.com/spreadsheets/d/1gAxn3I0seW7I6wOIeLjZcvpAFvzp7WAe/edit?usp=share_link&ouid=102987615667780543888&rtpof=true&sd=true)
+
+The bug report for the flight ticket booking page demonstrates my skills in detecting functional errors in the user registration and "My Account" flows. During my analysis, I identified and addressed issues related to user registration, such as validation errors, incomplete registration process, and incorrect handling of user inputs.
 
 #### Test cases
 - [Suite of test cases for Buggy Cars Raiting webpage - in spanish](https://docs.google.com/spreadsheets/d/11BfNqzr8ieiaEdpWdFSPVtpnht2kdqWk/edit?usp=sharing&ouid=102987615667780543888&rtpof=true&sd=true)
