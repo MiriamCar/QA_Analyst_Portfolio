@@ -44,12 +44,6 @@ Thank you for taking the time to visit my portfolio, and if you have any questio
 
 ## My Projects
 
-#### 👋 Bief presentation about me and my process as a QA
-- [Link to the video -in enlgish ](https://drive.google.com/file/d/1Z6xBki5XLcDeBNTmjHc71u-9Q5nVK-KQ/view?usp=sharing)
-
-> In this video, I share insights into my work experience as a Quality Assurance (QA)  in agile projects, highlighting my process and the tools (Jira/Zephyr) I use for project management, test case execution, and bug tracking.
-
-
 #### 🔎 Bug reports
 
 The following links showcase bug reports from projects I completed as part of my learning journey in various courses. These reports highlight issues identified and addressed in different web development projects. 
