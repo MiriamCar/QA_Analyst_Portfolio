@@ -16,17 +16,15 @@ ___________________________
 
 You will find examples of my work with some of the most popular QA testing tools, including:
 
+- Postman (collections with automated API tests for websites)
+
 - Test cases 
 
 - Bug reports
 
 - Jmeter and Google Chrome Dev Tools examples of perfomance testing
 
-- Postman (basic automated API tests for websites)
-
-- SQL (useful queriesfor QA testers)
-
--  Learning resources
+- SQL (useful queries for QA testers)
 
 :sparkles: Each project in this portfolio represents a different aspect of my journey as a QA analyst, and I hope that you find them informative and helpful.
 
@@ -43,6 +41,23 @@ Thank you for taking the time to visit my portfolio, and if you have any questio
 #### Happy testing! 🔎🐞
 
 ## My Projects
+
+#### :mailbox: Postman REST API Testing
++ CRUD operations for API requests using available APIs from (1) My Store API - https://mystoreapi.com/ and (2) Swagger Pet Store - https://petstore.swagger.io/
+
+This collections provide basic operations for creating, retrieving, updating, and deleting data using the APIs, as well as automated positive and negative tests to verify the functionality of these APIs.
+
+> In this button you can access the collections of CRUD operations
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/26765226-ee0bb80e-6375-482f-bcf8-55e79ebd60da?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D26765226-ee0bb80e-6375-482f-bcf8-55e79ebd60da%26entityType%3Dcollection%26workspaceId%3D99711c22-eb2b-417d-bfdb-efc5195e6e4b#?env%5BAmbiente%20de%20Pruebas%5D=W10=)
+
++ Multiples assertions
+
+This collection provides automated testing with dynamic data generation, tests to validate response elements in the header, assert non-null values and specific value types, and conduct API testing with response arrays, along with multiple assertions. This comprehensive set of tests ensures the reliability, correctness, and robustness of the APIs under examination.
+
+> In this button you can access the collections of multiple assertions
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/26765226-5386e187-36d7-4552-b283-4ccca6926824?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D26765226-5386e187-36d7-4552-b283-4ccca6926824%26entityType%3Dcollection%26workspaceId%3D99711c22-eb2b-417d-bfdb-efc5195e6e4b)
 
 #### 🔎 Bug reports
 
@@ -78,12 +93,6 @@ The following links showcase bug reports from projects I completed as part of my
 
 > 4. Conclusions and recommendations
 
-#### :mailbox: Postman REST API Testing
-+ API tests collection for Buggy Cars Raiting site
-
-> In this button you can access some basic automatic functional and loading API tests carried out on 'Buggy Cars Raiting site'
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/26765226-40b39827-3ba7-4c07-88f5-087a1fec1fce?action=collection%2Ffork&collection-url=entityId%3D26765226-40b39827-3ba7-4c07-88f5-087a1fec1fce%26entityType%3Dcollection%26workspaceId%3D994793d6-f1b2-45a6-94ca-8c532d2878b7)
 
 
 #### SQL Queries & Learning resources (in the making)
