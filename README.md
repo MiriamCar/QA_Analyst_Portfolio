@@ -84,15 +84,10 @@ The following links showcase bug reports from projects I completed as part of my
 - [Web Testing - in spanish](https://drive.google.com/file/d/1pHcW8cImVPSwHZu5qTa0BjHBTDdkHhY9/view?usp=sharing)
 
 > Here you will find: 
-
 > 1. Report of test cases for User registration, My account and Cart sections
-
 > 2. Report of bugs
-
 > 3. Test execution report
-
 > 4. Conclusions and recommendations
-
 
 
 #### SQL Queries & Learning resources (in the making)
