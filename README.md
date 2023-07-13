@@ -79,7 +79,7 @@ The following links showcase bug reports from projects I completed as part of my
 
 #### :computer: Web Testing Proyect
 
-> This link contains an end-to-end web testing project for an e-commerce website as part of the final project of the QA testing course taught by Coderhouse, one of the largest online learning platforms in LATAM. 
+This link contains an end-to-end web testing project for an e-commerce website as part of the final project of the QA testing course taught by Coderhouse, one of the largest online learning platforms in LATAM. 
 
 - [Web Testing - in spanish](https://drive.google.com/file/d/1pHcW8cImVPSwHZu5qTa0BjHBTDdkHhY9/view?usp=sharing)
 
