@@ -45,7 +45,7 @@ Thank you for taking the time to visit my portfolio, and if you have any questio
 #### :mailbox: Postman REST API Testing
 + CRUD operations for API requests using available APIs from (1) My Store API - https://mystoreapi.com/ and (2) Swagger Pet Store - https://petstore.swagger.io/
 
-This collections provide basic operations for creating, retrieving, updating, and deleting data using the APIs, as well as automated positive and negative tests to verify the functionality of these APIs.
+This collections provide basic operations for creating (POST), retrieving (GET), updating (PUT), and deleting (DELETE) data using the APIs, as well as automated positive and negative tests to verify the functionality of these APIs.
 
 > In this button you can access the collections of CRUD operations
 
